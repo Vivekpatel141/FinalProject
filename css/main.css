@@ -1,0 +1,107 @@
+
+/*-- DEVELOPER: Vivek Patel, IS117-004, Fall 2023 */
+
+.footer
+{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    color: black;
+    text-align: center;
+    padding-top: 1px;
+    margin: 0 auto;
+    font-size: 0.5rem;
+    background-image: linear-gradient(darkslategray,lightskyblue);
+}
+
+.contact-title
+{
+    text-align: center;
+    padding-top: 200px;
+    color: blue;
+}
+
+.text-center
+{
+    background-image: linear-gradient(darkslategray,lightskyblue);
+    padding: 10px;
+    margin-bottom: 25px;
+    width: 100%;
+    color: black;
+    margin-top: 1.5px;
+    font-family: "arial";
+
+}
+
+.resume_pic
+{
+    border-style: solid;
+    border-color: gray;
+    width: 60%;
+}
+
+.card
+{
+    border-style: inset;
+    border-color: gray;
+    color: black;
+    background-color:gray;
+    text-align: center;
+}
+
+.card_projects
+{
+    position: center;
+    padding-left: 95px;
+    align-content: center;
+}
+
+.card_otherProjects
+{
+    padding-left: 95px;
+    align-content: center;
+    position: center;
+}
+
+
+.center
+{
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.center1
+{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.center2
+{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+body
+{
+    background-color:steelblue;
+}
+
+.card-img-top
+{
+    position: center;
+    border-radius: 50px;
+    padding: 25px;
+    width: 30%;
+}
+
+
+
+
